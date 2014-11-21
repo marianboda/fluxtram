@@ -1,0 +1,17 @@
+{
+  "name": "fluxtram",
+  "version": "0.0.1",
+  "homepage": "https://github.com/marianboda/flux-traverser",
+  "authors": [
+    "Marian Boda <marianboda@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

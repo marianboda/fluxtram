@@ -1,0 +1,19 @@
+{
+  "name": "fluxtram",
+  "version": "0.0.1",
+  "description": "flux-traverser ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marianboda/flux-traverser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianboda/flux-traverser/issues"
+  },
+  "homepage": "https://github.com/marianboda/flux-traverser"
+}
