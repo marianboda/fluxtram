@@ -1,4 +1,4 @@
-flux-traverser
+fluxtram
 ==============
 
 Project to try out Flux
